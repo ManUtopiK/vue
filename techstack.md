@@ -64,7 +64,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ManUtopiK/vue](https://github.com/ManUtopiK/vue)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|84<br/>Tools used|12/14/23 <br/>Report generated|
+|87<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -315,9 +315,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (56)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (59)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (56)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (59)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -337,6 +337,7 @@ Full tech stack [here](/techstack.md)
 |[babel-plugin-istanbul](https://www.npmjs.com/babel-plugin-istanbul)|v5.1.0|01/07/19|Evan You |BSD-3-Clause|N/A|
 |[babel-plugin-transform-vue-jsx](https://www.npmjs.com/babel-plugin-transform-vue-jsx)|v4.0.1|01/07/19|Evan You |MIT|N/A|
 |[buble](https://www.npmjs.com/buble)|v0.19.6|01/07/19|Evan You |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v1.1.3|12/12/17|Evan You |MIT|N/A|
 |[chromedriver](https://www.npmjs.com/chromedriver)|v2.45.0|12/22/18|Evan You |Apache-2.0|[CVE-2023-26156](https://github.com/advisories/GHSA-hm92-vgmw-qfmx) (Moderate)|
 |[commitizen](https://www.npmjs.com/commitizen)|v2.10.1|10/23/18|Evan You |MIT|N/A|
 |[conventional-changelog](https://www.npmjs.com/conventional-changelog)|v1.1.24|10/23/18|Vikram Rangaraj |ISC|N/A|
@@ -347,6 +348,7 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-flowtype](https://www.npmjs.com/eslint-plugin-flowtype)|v2.50.3|10/30/19|katashin |BSD-3-Clause|N/A|
 |[eslint-plugin-jasmine](https://www.npmjs.com/eslint-plugin-jasmine)|v2.10.1|01/07/19|Evan You |MIT|N/A|
 |[file-loader](https://www.npmjs.com/file-loader)|v3.0.1|01/07/19|Evan You |MIT|N/A|
+|[flow-bin](https://www.npmjs.com/flow-bin)|v0.61.0|10/23/18|Vikram Rangaraj |MIT|N/A|
 |[hash-sum](https://www.npmjs.com/hash-sum)|v1.0.2|04/13/17|Evan You |MIT|N/A|
 |[he](https://www.npmjs.com/he)|v1.2.0|04/11/16|Evan You |MIT|N/A|
 |[http-server](https://www.npmjs.com/http-server)|v0.11.1|03/07/18|Evan You |MIT|N/A|
@@ -361,6 +363,7 @@ Full tech stack [here](/techstack.md)
 |[karma-sauce-launcher](https://www.npmjs.com/karma-sauce-launcher)|v2.0.2|01/07/19|Evan You |MIT|N/A|
 |[karma-sourcemap-loader](https://www.npmjs.com/karma-sourcemap-loader)|v0.3.7|01/07/19|Evan You |MIT|N/A|
 |[karma-webpack](https://www.npmjs.com/karma-webpack)|v4.0.0|02/18/19|Evan You |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v8.1.0|01/07/19|Evan You |MIT|N/A|
 |[lodash.template](https://www.npmjs.com/lodash.template)|v4.5.0|06/13/17|Evan You |MIT|N/A|
 |[lodash.uniq](https://www.npmjs.com/lodash.uniq)|v4.5.0|06/17/17|Evan You |MIT|N/A|
 |[lru-cache](https://www.npmjs.com/lru-cache)|v4.1.5|01/07/19|Evan You |ISC|N/A|
